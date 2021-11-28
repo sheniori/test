@@ -4,7 +4,7 @@
     "AppsList-Android": [   
         {
             "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://previews.dropbox.com/p/thumb/ABX0K2omTu0QZ1thOlARgcBLQxcr5exe5lST8XrrrsfIZIUnRX20nG9-Dn8FeyZYZLXqYDmIN0l2sV9G0awSlfCopKfbb8Q_pwBBvchhkQa0g1wrclcLDrN5wZe5gNfhBcFjxmHw9brKwbEtUdF-QiR6ODL0I499voTYLB-KrU8PEegoaxiObAn5KPMrXScw0jo9ONCeSsIKJCjhoyfWjaAg1KySj2YhkHDegurAuo-bv0fD7pATzoR4_y5D625gDAKI6YeZQbaU5OI4lKCJHHJyU93uzt7RYb2fxDRgUMAVEyI7xeM4JQ0KyqhqdfGZNWWEk6CRm0LWodqhFVGztsWWw3TsmsSJU_o_D48nu1DJcg/p.png",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
             "Id": "com.area730.dinosimulator"
         }
     ],
@@ -12,7 +12,7 @@
     "AppsList-iOS": [
         {
             "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://previews.dropbox.com/p/thumb/ABX0K2omTu0QZ1thOlARgcBLQxcr5exe5lST8XrrrsfIZIUnRX20nG9-Dn8FeyZYZLXqYDmIN0l2sV9G0awSlfCopKfbb8Q_pwBBvchhkQa0g1wrclcLDrN5wZe5gNfhBcFjxmHw9brKwbEtUdF-QiR6ODL0I499voTYLB-KrU8PEegoaxiObAn5KPMrXScw0jo9ONCeSsIKJCjhoyfWjaAg1KySj2YhkHDegurAuo-bv0fD7pATzoR4_y5D625gDAKI6YeZQbaU5OI4lKCJHHJyU93uzt7RYb2fxDRgUMAVEyI7xeM4JQ0KyqhqdfGZNWWEk6CRm0LWodqhFVGztsWWw3TsmsSJU_o_D48nu1DJcg/p.png",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
             "Id": "980976040"
         }
     ]
