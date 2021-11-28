@@ -5,20 +5,20 @@
         {
             "AppTitle": "Miami Police Crime",
             "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/miami%20police%20icon.png",
-            "Id": "https://play.google.com/store/apps/details?id=com.police.mafia.crime.vice"
+            "Id": "com.police.mafia.crime.vice"
         }
                 {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
+            "AppTitle": "Crazy Hacker Simulator",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/hacker.png",
+            "Id": "mafia.hacker.drone.city.crime.gangster"
         }        {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
+            "AppTitle": "Mafia Crime Simulator",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/mafia%20crime.png",
+            "Id": "com.vegas.crime.vice.town.simulator"
         }        {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
+            "AppTitle": "Santa Rope Hero",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/santa.png",
+            "Id": "com.crime.santa.rope.hero"
         }        {
             "AppTitle": "Sabertooth Tiger Simulator",
             "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
@@ -29,21 +29,13 @@
             "Id": "com.area730.dinosimulator"
         }
                 {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
+            "AppTitle": "Stickman Rope Climbing",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/stickman.png",
+            "Id": "com.naxeexhero.stickmanropehero.vice.town"
         }        {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
-        }        {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
-        }        {
-            "AppTitle": "Sabertooth Tiger Simulator",
-            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/icon.png",
-            "Id": "com.area730.dinosimulator"
+            "AppTitle": "Flying Super-Hero",
+            "IconUrl": "https://raw.githubusercontent.com/sheniori/test/main/superhero.png",
+            "Id": "com.superhero.citymission.rescue.rope"
         }
     ],
 
