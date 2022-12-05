@@ -1,17 +1,70 @@
-Data Access:
-We don't store your personal data like your email id, phone number or any other personal details on our servers. We are focused on offering the best products to users and not interested to use this data for marketing purpose or do anything like selling/sharing with other companies. You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number.
+This Privacy Policy applies to all of the products, services and websites offered by Kradapp Sometimes, we may post product specific privacy notices to explain our products in more detail.
 
 
-Ad Tracking:
-We use third party ad networks to afford the development and other involved cost to run the services and they may use and collect anonymous data about your interests to customize content and advertising in applications. Interest and location data may be linked to your device, but is not linked to your identity.
+If you have any questions about this Privacy Policy, please feel free to contact us.
 
 
-Analytics:
-Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They share it with us in aggregate form; no data is shared as to any individual user.
+Information we collect and how we use it
 
 
-Contact Us:
-If you have any questions or concerns about our privacy policies, please send a mail to us on support at info@zaalouk.com
+We may collect the following types of information:
 
-Update:
-This privacy policy was last updated on 12 November 2021. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application.
+
+Information you provide – When you sign up in our products, we ask you for personal information, such as name, email or zip code. We may combine the information you submit to provide you with a better experience and to improve the quality of our products.
+
+Location data – We offers location-enabled services and products. If you use those services or products, may receive information about your actual location or information that can be used to approximate a location.
+
+Crash and usage data – If you use our android products, may receive anonymous crash and usage data of your android device and apps.
+
+Other sites – This Privacy Policy applies to services, products and websites only.
+
+In addition to the above, we may use the information we collect to:
+
+
+Provide, maintain, protect, and improve our services and develop new services; and
+
+Protect the rights or property of INFOLIFE or our users.
+
+If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+
+
+processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information outside your own country.
+
+
+Information sharing
+
+
+ only shares personal information with other companies or individuals outside of in the following limited circumstances:
+
+
+We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+
+We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+
+We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of , its users or the public as required or permitted by law.
+
+If becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+
+Information security
+
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+
+We restrict access to personal information to employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+
+Ads by Google Admob
+
+
+https://support.google.com/admob
+
+
+Changes to this Privacy Policy
+
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+
+
+Last version
