@@ -1,6 +1,6 @@
 [ {
   "note" : "ADMOB",
-  "id_adm" : "ca-app-pub-3940256099942544/6300978111",
+  "id_adm" : "ca-app-pub-3940256099942544/1033173712",
   "init_adm" : 0,
   "pack_adm" : "",
   "pe1_adm" : 0,
@@ -8,7 +8,7 @@
   "status_adm" : true,
   
   "note" : "IRONSOURCE",
-  "id_irc" : "17a989acd",
+  "id_irc" : "",
   "init_irc" : 540,
   "pack_irc" : "",
   "pe1_irc" : 1080,
