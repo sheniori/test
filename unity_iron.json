@@ -1,8 +1,8 @@
 [ {
   "note" : "ADMOB",
-  "id_adm" : "",
+  "id_adm" : "ca-app-pub-3940256099942544/1033173712",
   "init_adm" : 0,
-  "pack_adm" : "",
+  "pack_adm" : "ca-app-pub-3940256099942544/1033173712",
   "pe1_adm" : 0,
   "pe2_adm" : 0,
   "status_adm" : false,
