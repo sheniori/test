@@ -1,0 +1,27 @@
+[ {
+  "note" : "ADMOB",
+  "id_adm" : "",
+  "init_adm" : 0,
+  "pack_adm" : "",
+  "pe1_adm" : 0,
+  "pe2_adm" : 0,
+  "status_adm" : false,
+  
+  "note" : "IRONSOURCE",
+  "id_irc" : "17a989acd",
+  "init_irc" : 540,
+  "pack_irc" : "",
+  "pe1_irc" : 1080,
+  "pe2_irc" : 1620,
+  "status_irc" : true,
+  
+  "note" : "UNITY ADS",
+  "id_una" : "",
+  "init_una" : 720,
+  "name_una" : "Interstitial_Android",
+  "pack_una" : "",
+  "pe1_una" : 1260,
+  "pe2_una" : 1800,
+  "status_una" : true,
+  "testMode_una" : true
+} ]
