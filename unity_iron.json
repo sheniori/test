@@ -23,5 +23,5 @@
   "pe1_una" : 1260,
   "pe2_una" : 1800,
   "status_una" : true,
-  "testMode_una" : true
+  "testMode_una" : false
 } ]
