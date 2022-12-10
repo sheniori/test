@@ -1,19 +1,19 @@
 [ {
   "note" : "ADMOB",
-  "id_adm" : "ca-app-pub-3940256099942544/1033173712",
+  "id_adm" : "",
   "init_adm" : 0,
   "pack_adm" : "",
   "pe1_adm" : 0,
   "pe2_adm" : 0,
-  "status_adm" : true,
+  "status_adm" : false,
   
   "note" : "IRONSOURCE",
-  "id_irc" : "",
+  "id_irc" : "17a989acd",
   "init_irc" : 540,
   "pack_irc" : "",
   "pe1_irc" : 1080,
   "pe2_irc" : 1620,
-  "status_irc" : false,
+  "status_irc" : true,
   
   "note" : "UNITY ADS",
   "id_una" : "",
@@ -22,6 +22,6 @@
   "pack_una" : "",
   "pe1_una" : 1260,
   "pe2_una" : 1800,
-  "status_una" : false,
-  "testMode_una" : false
+  "status_una" : true,
+  "testMode_una" : true
 } ]
