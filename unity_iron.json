@@ -1,11 +1,11 @@
 [ {
   "note" : "ADMOB",
-  "id_adm" : "",
+  "id_adm" : "ca-app-pub-3940256099942544/6300978111",
   "init_adm" : 0,
   "pack_adm" : "",
   "pe1_adm" : 0,
   "pe2_adm" : 0,
-  "status_adm" : false,
+  "status_adm" : true,
   
   "note" : "IRONSOURCE",
   "id_irc" : "17a989acd",
@@ -13,7 +13,7 @@
   "pack_irc" : "",
   "pe1_irc" : 1080,
   "pe2_irc" : 1620,
-  "status_irc" : true,
+  "status_irc" : false,
   
   "note" : "UNITY ADS",
   "id_una" : "",
