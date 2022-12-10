@@ -1,14 +1,14 @@
 [ {
   "note" : "ADMOB",
-  "id_adm" : "ca-app-pub-3940256099942544/1033173712",
+  "id_adm" : "",
   "init_adm" : 0,
-  "pack_adm" : "ca-app-pub-3940256099942544/1033173712",
+  "pack_adm" : "",
   "pe1_adm" : 0,
   "pe2_adm" : 0,
   "status_adm" : true,
   
   "note" : "IRONSOURCE",
-  "id_irc" : "",
+  "id_irc" : "17a989acd",
   "init_irc" : 540,
   "pack_irc" : "",
   "pe1_irc" : 1080,
