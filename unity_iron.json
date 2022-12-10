@@ -5,7 +5,7 @@
   "pack_adm" : "",
   "pe1_adm" : 0,
   "pe2_adm" : 0,
-  "status_adm" : true,
+  "status_adm" : false,
   
   "note" : "IRONSOURCE",
   "id_irc" : "17a989acd",
@@ -22,6 +22,6 @@
   "pack_una" : "",
   "pe1_una" : 1260,
   "pe2_una" : 1800,
-  "status_una" : true,
+  "status_una" : false,
   "testMode_una" : false
 } ]
