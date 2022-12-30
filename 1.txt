@@ -1,28 +1,8 @@
 [ {
-  "note" : "ADMOB",
-  "id_adm" : "ca-app-pub-3940256099942544/6300978111",
-  "init_adm" : 0,
-  "pack_adm" : "ca-app-pub-3940256099942544/1033173712",
-  "pe1_adm" : 0,
-  "pe2_adm" : 0,
-  "status_adm" : false,
-  
-  "note" : "IRONSOURCE",
-  "id_irc" : "",
-  "init_irc" : 540,
-  "pack_irc" : "",
-  "pe1_irc" : 1080,
-  "pe2_irc" : 1620,
-  "status_irc" :false,
-  
-  "note" : "UNITY ADS",
-  "id_una" : ,
-  "init_una" : 1,
-  "name_una" : "Interstitial_Android",
-  "pack_una" : "",
-  "pe1_una" : 60,
-  "pe2_una" : 120,
-  "status_una" : true,
-  "testMode_una" : false
+  "is_active" : true,
+  "top_banner" : true,
+  "time_interval" : 60,
+  "time_after_load" : 10,
+  "app_key" : "17df02845"
 } ]
 1
